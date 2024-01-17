@@ -1,0 +1,376 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Department of the Interior, Bureau of Land Management (BLM)</origin>
+        <title>BLM Colorado Grazing Allotments</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://navigator.blm.gov</onlink>
+        <pubdate>20220324</pubdate>
+        <pubinfo>
+          <publish>Bureau of Land Management</publish>
+          <pubplace>Lakewood, CO</pubplace>
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>KMZ File Format &#8211;To view and analyze BLM Grazing Boundaries and Attributes for Colorado.</abstract>
+      <purpose>The purpose of this polygon feature class is to show BLM Colorado Grazing Allotments, which are areas of land designated and managed for grazing of livestock. It may include private, state, and public lands under the jurisdiction of the Bureau of Land Management and/or other federal agencies. An allotment is derived from its pastures, where the grazing of livestock is occurring.</purpose>
+      <supplinf>A published revision of the Department Manuals Part 305: Departmental Science Effects, Chapter 3: Integrity of Scientific and Scholarly Activities (305 DM 3), effective December 16, 2014, is available online at http://elips.doi.gov/ELIPS/DocView.aspx?id=4056. Scholarly information considered in Departmental decision making must be robust, of the highest quality, and the result of as rigorous scientific and scholarly processes as can be achieved. Most importantly, it must be trustworthy. This policy helps us to achieve that standard (http://www.doi.gov/scientificintegrity/index.cfm)</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20220324</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-109.314676</westbc>
+        <eastbc>-101.922464</eastbc>
+        <northbc>41.134493</northbc>
+        <southbc>36.927876</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>BLM-STATE</placekt>
+        <placekey>Colorado</placekey>
+      </place>
+      <theme>
+        <themekey>Bureau of Land Management</themekey>
+        <themekey>BLM</themekey>
+        <themekey>Department of the Interior</themekey>
+        <themekey>Grazing Boundaries</themekey>
+        <themekey>GRA</themekey>
+        <themekey>DOI</themekey>
+        <themekey>Allotment</themekey>
+        <themekey>Range</themekey>
+        <themekey>Geospatial</themekey>
+        <themekey>Management</themekey>
+        <themekey>boundaries</themekey>
+        <themekt>None</themekt>
+      </theme>
+      <theme>
+        <themekt>BLM-THEME</themekt>
+        <themekey>Range</themekey>
+        <themekey>Geospatial</themekey>
+      </theme>
+    </keywords>
+    <accconst>None, these data are public domain</accconst>
+    <useconst>These data are provided by BLM "as is" and may contain errors or omissions. The User assumes the entire risk associated with its use of these data and bears all responsibility in determining whether these data are fit for the User's intended use. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived, and both scale and accuracy may vary across the data set. These data may not have the accuracy, resolution, completeness, timeliness, or other characteristics appropriate for applications that potential users of the data may contemplate. The User is encouraged to carefully consider the content of the metadata file associated with these data. These data are neither legal documents nor land surveys, and must not be used as such. Official records may be referenced at most BLM offices. Please report any errors in the data to the BLM office for which it was obtained. The BLM should be cited as the data source in any products derived from these data. Any Users wishing to modify the data should describe the types of modifications they have performed. The User should not misrepresent the data, nor imply that changes made were approved or endorsed by BLM. This information may be updated without notification.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>BLM Colorado State Office</cntorg>
+          <cntper>Data Steward</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>2850 Youngfield Street</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80215</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>303 239-3600</cntvoice>
+        <cntpos>Rangeland Management Specialist</cntpos>
+        <cntemail>blm_co_info@blm.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>BLM Colorado</datacred>
+    <native>Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.1.5686</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Please contact the BLM Colorado Point of Contact for this dataset to obtain additional information on the provenance, history, logical consistency, accuracy and quality of their data.</attraccr>
+    </attracc>
+    <complete>Please contact the BLM Colorado Point of Contact for this dataset to obtain additional information on the provenance, history, logical consistency, accuracy and quality of their data.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Please contact the BLM Colorado Point of Contact for this dataset to obtain additional information on the provenance, history, logical consistency, accuracy and quality of their data.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Please contact the BLM Colorado Point of Contact for this dataset to obtain additional information on the provenance, history, logical consistency, accuracy and quality of their data.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <typesrc>None</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>April 2009</begdate>
+              <enddate>July 2009</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccontr>The following layers were requested from the BLM Colorado Field Offices and used to create the original statewide merge of Grazing Allotments in 2009; Field Office Allotments.gdb Glenwood Springs Field Office, SJPLC_GrazingAllotments.mdb San Juan Public Lands Center, SLV_BLM_allotments.mdb San Luis Valley Public Lands Center, ls_allot (coverage) Little Snake Field Office, gjfo_allotments.shp Grand Junction Field Office, UFO_allotment_boundaries.shp Uncompahgre Field Office, WRFO_AllotmentBoundaries White River Field Office, gmug_range_allots.shp Gunnison Field Office, gfo_allotmentboundaries.mdb Gunnison Field Office, allotments.shp Canon City Field Office, and the KFO_allotments.shp Kremmling Field Office.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Requested allotment data from BLM Field Offices. Intial data was sent and received on April 22, 2009. At this time all of the BLM Field Office in Colorado sent data to the BLM Colorado State Office. The goal of this data call/request was to merge all of the Field Office data into a statewide dataset. In July 2009, the BLM Colorado State Office requrested the data again from the Field Offices. The resulting statewide merge is combination of the original data call in April 2009 and any updates that we received in July 2009.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>BLM Colorado</cntorg>
+              <cntper>State Geospatial Lead</cntper>
+            </cntorgp>
+            <cntpos>State Geospatial Lead</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>2850 Youngfield St</address>
+              <city>Lakewood</city>
+              <state>CO</state>
+              <postal>80215</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>303-239-3600</cntvoice>
+            <cntemail>blm_co_info@blm.gov</cntemail>
+          </cntinfo>
+        </proccont>
+        <procdate>20220324</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Empty file-based Geodatabase created based on Grazing Boundaries Implementation Guidelines National Standards, dated; Feb. 13, 2009, Version 2_2. BLM Field Office data populated into Geodatabase template. The Geodatabase template has four feature classes, only the gra_allot_poly and gra_past_poly feature classes are populated at this time. Field Offices did not send historic polygon data or pasture line data. National Standard Attribute Fields were populated during the statewide merge process. These attributes consisted of the feature Name and feature Number. All Field Office Attributes that were non-standard were appended on the end of the attribute table. Original Field Office Attribute fields are prefixed by contributing Field Office acronym followed by the attribute field name that the Field Office originally created. In some cases Field Office data had to be dissolved by Allotment name to create Allotment polygons prior to loading the data into the National Standard template. Every effort was made to retain all Field Office Attributes. If Field Office Attributes are not in the gra_allot_poly feature class they should show up in the gra_past_feature class.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>State Geospatial Lead</cntper>
+              <cntorg>BLM Colorado</cntorg>
+            </cntperp>
+            <cntpos>State Geospatial Lead</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>2850 Youngfield St</address>
+              <city>Lakewood</city>
+              <state>CO</state>
+              <postal>80215</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>303-239-3600</cntvoice>
+            <cntemail>blm_co_info@blm.gov</cntemail>
+          </cntinfo>
+        </proccont>
+        <procdate>20090213</procdate>
+      </procstep>
+      <procstep>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>State Geospatial Lead</cntper>
+              <cntorg>BLM Colorado</cntorg>
+            </cntperp>
+            <cntpos>State Geospatial Lead</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>2850 Youngfield St</address>
+              <city>Lakewood</city>
+              <state>CO</state>
+              <postal>80215</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>303-239-3600</cntvoice>
+            <cntemail>blm_co_info@blm.gov</cntemail>
+          </cntinfo>
+        </proccont>
+        <procdesc>Dataset copied</procdesc>
+        <procdate>20161206</procdate>
+      </procstep>
+    </lineage>
+    <logic>Please contact the BLM Colorado Point of Contact for this dataset to obtain additional information on the provenance, history, logical consistency, accuracy and quality of their data.</logic>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>2663</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>-105.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+          <mapprojn>Transverse Mercator</mapprojn>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000002220024164500956</absres>
+            <ordres>0.000000002220024164500956</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>BLM_CO_Grazing_Allotments</enttypl>
+        <enttypd>BLM Colorado Grazing Allotments</enttypd>
+        <enttypds>BLM</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ALLOT_NO</attrlabl>
+        <attrdef>Grazing Allotment Number</attrdef>
+        <attrdefs>BLM</attrdefs>
+        <attrdomv>
+          <udom>The number that identifies an Allotment which is unique within the BLM administrative state.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ALLOT_NAME</attrlabl>
+        <attrdef>Grazing Allotment Name</attrdef>
+        <attrdefs>BLM</attrdefs>
+        <attrdomv>
+          <udom>The name by which the allotment is commonly known.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GIS_ACRES</attrlabl>
+        <attrdef>This is the calculated value of the area in units of acres based on the current map projection.</attrdef>
+        <attrdefs>BLM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_ST</attrlabl>
+        <attrdef>An administrative unit that identifies the state or geographic area that has administrative jusrisdiction over lands. The current list of values is: AK, AZ, CA, CO, ES, ID, MT, NM, NV, OR, UT, WY</attrdef>
+        <attrdefs>BLM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADM_OFC_CD</attrlabl>
+        <attrdef>A code representing the grazing allotment's administrative office</attrdef>
+        <attrdefs>BLM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ST_ALLOT</attrlabl>
+        <attrdef>This is a concatenation of three existing attributes but not a substitute for having any of those three attributes.</attrdef>
+        <attrdefs>BLM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACTIVE_DT</attrlabl>
+        <attrdef>The calender date on which the boundary of an allotment is established and becomes effective.</attrdef>
+        <attrdefs>BLM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADM_UNIT_C</attrlabl>
+        <attrdef>A code representing the grazing allotment's administrative office</attrdef>
+        <attrdefs>BLM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_area</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_len</attrlabl>
+        <attrdef>Shape Length</attrdef>
+        <attrdefs>Esri</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <dsoverv>The purpose of this polygon feature class is to show BLM Colorado Grazing Allotments, which are areas of land designated and managed for grazing of livestock. It may include private, state, and public lands under the jurisdiction of the Bureau of Land Management and/or other federal agencies. An allotment is derived from its pastures, where the grazing of livestock is occuring. </dsoverv>
+      <eaover>See individual attribute information</eaover>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>BLM Colorado</cntorg>
+          <cntper>State Geospatial Lead</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>2850 Youngfield Street</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80215</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntpos>State Geospatial Lead</cntpos>
+        <cntvoice>303-239-3600</cntvoice>
+        <cntemail>blm_co_info@blm.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>The BLM assumes no responsibility for errors or omissions. No warranty is made by the BLM as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data; nor shall the act of distribution to contractors, partners, or beyond, constitute any such warranty for individual or aggregate data use with other data. Although these data have been processed successfully on computers of BLM, no warranty, expressed or implied, is made by BLM regarding the use of these data on any other system, or for general or scientific purposes, nor does the fact of distribution constitute or imply any such warranty. In no event shall the BLM have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of the use or reliance on the geographic data or arising out of the delivery, installation, operation, or support by BLM.</distliab>
+    <availabl>
+      <timeinfo>
+        <sngdate>
+          <caldate>20220324</caldate>
+        </sngdate>
+      </timeinfo>
+    </availabl>
+  </distinfo>
+  <metainfo>
+    <metd>20220324</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>BLM, Colorado State Office</cntorg>
+          <cntper>State Geospatial Lead</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>2850 Youngfield Street</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80215</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>303 239-3600</cntvoice>
+        <cntpos>State Geospatial Lead</cntpos>
+        <cntemail>blm_co_info@blm.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>These data are provided by Bureau of Land Management (BLM) &#8220;as is&#8221; and might contain errors or omissions. The User assumes the entire risk associated with its use of these data and bears all responsibility in determining whether these data are fit for the User&#8217;s intended use. The information contained in these data is dynamic and may change over time. The data are not better than the sources from which they were derived, and both scale and accuracy may vary across the data set. These data might not have the accuracy, resolution, completeness, timeliness, or other characteristics appropriate for applications that potential users of the data may contemplate. The User is encouraged to carefully consider the content of the metadata file associated with these data. These data are neither legal documents nor land surveys, and must not be used as such. Official records may be referenced at most BLM offices. Please report any errors in the data to the BLM office from which it was obtained. The BLM should be cited as the data source in any products derived from these data. Any Users wishing to modify the data should describe the types of modifications they have performed. The User should not misrepresent the data, nor imply that changes made were approved or endorsed by BLM. This data may be updated by the BLM without notification.</metuc>
+    <metrd>20220324</metrd>
+  </metainfo>
+</metadata>
